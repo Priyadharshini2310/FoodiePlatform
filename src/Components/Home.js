@@ -5,6 +5,7 @@ import BannerImage from "../Assets/home-banner-image.png";
 import { FiArrowRight } from "react-icons/fi";
 const Home = () => {
   return (
+    <section id='home'>
     <div className='home-container'>
       <Navbar/>
       <div className="home-banner-container">
@@ -28,6 +29,7 @@ const Home = () => {
         </div>
       </div>
     </div>
+    </section>
   )
 }
 
