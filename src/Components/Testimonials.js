@@ -6,17 +6,15 @@ const Testimonials = () => {
     <div className="work-section-wrapper">
       <div className="work-section-top">
         <p className="primary-subheading">Testimonial</p>
-        <h1 className="primary-heading">What They Are Saying</h1>
+        <h1 className="primary-heading-center">Hear from Our Happy Customers</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        See why our guests are praising our meals and services with their glowing reviews
         </p>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        I've never enjoyed food this much—quick delivery, amazing flavors, and top-notch service. Highly recommended!
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />

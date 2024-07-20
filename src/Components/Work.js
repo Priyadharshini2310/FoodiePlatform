@@ -7,28 +7,27 @@ const Work = () => {
   const workInfoData = [
     {
       image: PickMeals,
-      title: "Pick Meals",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+      title: "Select Your Favorites with Ease",
+      text: "Browse our curated menu and choose the meals that best satisfy your cravings.",
     },
     {
       image: ChooseMeals,
-      title: "Choose How Often",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+      title: "Your Meal, Your Schedule",
+      text: "Decide how often you want your favorite dishes delivered and enjoy a perfectly timed dining experience",
     },
     {
       image: DeliveryMeals,
-      title: "Fast Deliveries",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
+      title: "Swift Deliveries, Savory Meals",
+      text: "Experience fast deliveries that bring your meals right to your door, hot and ready to enjoy.",
     },
   ];
   return (
     <div className="work-section-wrapper">
       <div className="work-section-top">
         <p className="primary-subheading">Work</p>
-        <h1 className="primary-heading">How It Works</h1>
+        <h1 className="primary-heading-center">Your Gateway to Gourmet Made Easy</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        Uncover how our process transforms your dining preferences into exceptional culinary experiences.
         </p>
       </div>
       <div className="work-section-bottom">
